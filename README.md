@@ -1,5 +1,7 @@
 # Cyber Security Lab-I
-:pencil2: Topic: Comparative study of post-quantum key-exchange mechanisms and its implementations. I have to make a short paper on the same and
+:pencil2: Topic: **Comparative study of post-quantum key-exchange mechanisms and its implementations**
+
+My primary task is to make a short paper and a presentation on this given topic.
 
 :closed_book: Here is a list of things I have to do in order to get a grade:
 *  Make a presentation of my findings
