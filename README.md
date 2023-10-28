@@ -15,5 +15,13 @@ My primary task is to make a short paper and a presentation on this given topic.
 *  List and compare the above
 *  Keep a document about the knowledge I acquire - LaTeX document from the start
 
+🧫 Comments
+
+**Oct 28**
+*  Study about key-exchange in general
+*  Study more about post-quantum key-exchange protocols than the above
+*  Maybe make a list of state-of-the-art papers first
+*  Then figure out the main implementation techniques implemented, maybe categorize them
+*  Compare the above broadly
 
 🧮 Left for future addition...
