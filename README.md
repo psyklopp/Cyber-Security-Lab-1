@@ -24,4 +24,8 @@ My primary task is to make a short paper and a presentation on this given topic.
 *  Then figure out the main implementation techniques implemented, maybe categorize them
 *  Compare the above broadly
 
+**Nov 03**
+*  I will refer to this paper for the structure of my report: [Performance and comparison of post-quantum cryptographic algorithms](https://www.diva-portal.org/smash/get/diva2:1111159/FULLTEXT01.pdf)
+*  I will be using this library from [Open Quantum Safe](https://openquantumsafe.org/): [liboqs](https://github.com/open-quantum-safe/liboqs)
+
 🧮 Left for future addition...
