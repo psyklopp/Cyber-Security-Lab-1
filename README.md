@@ -32,4 +32,9 @@ My primary task is to make a short paper and a presentation on this given topic.
 *  Start writing the report.
 *  Basic structure with the result section complete for at least 1 algorithm so that I can show.
 
+**Nov 20**
+*  Finally started
+*  Have to choose 4 algorithms mainly
+*  Kyber - because the finalist
+*  3 others - state reason the finalize the methodology 
 🧮 Left for future addition...
