@@ -36,5 +36,10 @@ My primary task is to make a short paper and a presentation on this given topic.
 *  Finally started
 *  Have to choose 4 algorithms mainly
 *  Kyber - because the finalist
-*  3 others - state reason the finalize the methodology 
+*  3 others - state reason the finalize the methodology
+
+**Nov 21**
+*  Algorithms chosen
+*  State the method + Write something for 1st one - Kyber
+
 🧮 Left for future addition...
