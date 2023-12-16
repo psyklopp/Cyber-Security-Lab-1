@@ -42,4 +42,8 @@ My primary task is to make a short paper and a presentation on this given topic.
 *  Algorithms chosen
 *  State the method + Write something for 1st one - Kyber
 
+**Dec 16**
+*  Maybe I should compare them on how the algorithms are different and what affects their speed
+*  Can also talk about the implementations available
+
 🧮 Left for future addition...
